@@ -13,7 +13,7 @@ Players can save the progress at any point throughout the game, then the program
 # How to play
 First, you have to download ChessGame.java, ChessGame.class, and all .class files in the Classes folder. Then, place all the files into the same folder and open ChessGame.java file with RTP compiler. Press Run button on the top left corner of the window.
 
-The game uses two console windows, user interaction&instruction and graphic game board window, so place these windows side by side so that you can see both windows at the same time.
+The game uses two console windows, user interaction&instruction and graphic game board window, so place these windows side by side so that you can see both windows at the same time. Note that you must type in other commands as **lower case** and coordinates as **UPPER CASE**.
 
 # Potential improvements
 - Implement stalemate, en passant, and checkmate checker
