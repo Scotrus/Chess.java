@@ -1,2 +1,1 @@
-# Chess.java
-A 2-player chess game developed for grade 12 CS course culminating task
+dbe9504c743ac3bdab467a2025c34d1bf3ab2f1a
