@@ -15,6 +15,8 @@ First, you have to download ChessGame.java, ChessGame.class, and all .class file
 
 The game uses two console windows, user interaction&instruction and graphic game board window, so place these windows side by side so that you can see both windows at the same time. Note that you must type in other commands as **lower case** and coordinates as **UPPER CASE**.
 
+![alt text](https://github.com/Scotrus/Chess.java/blob/master/Chess.java%20running%20screen.png)
+
 # Potential improvements
 - Implement stalemate, en passant, and checkmate checker
 - Develop AI to play against for single player mode
